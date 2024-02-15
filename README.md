@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <h2>Vídeo de exemplo a seguir</h2>
+  <h2>Aplicação em funcionamento</h2>
 
   https://github.com/Stephanie-Ingrid/Random-Number-Game/assets/98422190/ca6c93b0-1ce8-4b0e-9985-8f2e58a98de3
 </div>
