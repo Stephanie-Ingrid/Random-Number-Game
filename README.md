@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Jogo do Número Aleatório</h1>
-  <p>O jogo gera um número aleatório entre 1 e 100 a cada ínicio de partida, conta com uma inteligencia artificial que lê os textos na tela, para reproduzir apenas click no "Allow" e divirta-se.</p>
+  <p>O jogo gera um número aleatório entre 1 e 100 a cada início de partida e conta com uma inteligência artificial que lê os textos na tela.<br> Para reproduzir, basta clicar em "Allow" e divirta-se!</p>
 </div>
 
 <div align="center">
@@ -11,11 +11,29 @@
 
 </div>
 
+  ##
+  
+<div>
+  <h3 align="center">Para executar um projeto em HTML, CSS e JavaScript, siga estas etapas básicas:</h3>
+<li><strong>Baixe o Projeto:</strong> Se o projeto estiver disponível para download, baixe e extraia os arquivos para uma pasta no seu computador.</li>
+<li><strong>Estrutura do Projeto:</strong> Verifique a estrutura do projeto. Geralmente, os arquivos HTML, CSS e JavaScript estarão presentes. Às vezes, pode haver pastas adicionais para imagens, fontes ou outros recursos.</li>
+<li><strong>Abra o Arquivo HTML Principal:</strong> Encontre o arquivo HTML principal do projeto. Normalmente, será nomeado como index.html. Dê um clique duplo para abrir este arquivo em um navegador da web.</li>
+</p>
+</div>
+
+  ##
+
 <div align="center">
-  <h2>Aplicação em funcionamento</h2>
+  <h3>Aplicação em funcionamento</h3>
 
   https://github.com/Stephanie-Ingrid/Random-Number-Game/assets/98422190/ca6c93b0-1ce8-4b0e-9985-8f2e58a98de3
 </div>
+
+  <div align="center">
+    <h3>Desenvolvido por Stephanie Oliveira</h3>
+      <a href="https://www.linkedin.com/in/stephanie-ingrid-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href = "mailto:stephanieoliveira.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
 
 
 
